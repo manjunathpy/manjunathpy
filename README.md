@@ -79,7 +79,11 @@ Here's a glimpse into the technologies and tools I wield to bring ideas to life:
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manjunathpy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manjunath's GitHub Stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathpy&theme=tokyonight&hide_border=true" alt="Manjunath's GitHub Streak" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathpy&layout=compact&theme=tokyonight&hide_border=true" alt="Manjunath's Top Languages" />
 </p>
 
