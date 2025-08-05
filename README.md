@@ -1,9 +1,6 @@
-<div>
-  <img src="https://avatars.githubusercontent.com/u/9317691?v=4" width="150px;" alt="Manjunath P Y Profile Picture" style="border-radius:50%; border: 3px solid #007ACC;" />
-  <h1>Hello, I'm Manjunath P Y! 👋</h1>
-  <h3>🚀 Technical Lead | Web Application Architect | Full-Stack Developer</h3>
-  <p>📍 Based in Bengaluru, India 🇮🇳</p>
-</div>
+<h2>Hello, I'm Manjunath! 👋</h2>
+<h3>🚀 Technical Lead | Web Application Architect | Full-Stack Developer</h3>
+<p>📍 Based in Bengaluru, India 🇮🇳</p>
 
 ---
 
