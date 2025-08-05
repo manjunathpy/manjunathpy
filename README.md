@@ -6,7 +6,7 @@
 
 ### 🌟 About Me
 
-With over **10 + years of experience** in Information Technology, I am a seasoned **Technical Lead** passionate about crafting robust and scalable web applications. My expertise lies in orchestrating end-to-end solutions, leading dynamic teams, and driving projects from concept to delivery.
+With over **10 years of experience** in Information Technology, I am a seasoned **Technical Lead** passionate about crafting robust and scalable web applications. My expertise lies in orchestrating end-to-end solutions, leading dynamic teams, and driving projects from concept to delivery.
 
 My journey is rooted in mastering **JavaScript frameworks** and building intuitive user experiences, always with an eye for performance and maintainability. I thrive on solving complex technical challenges and leveraging cutting-edge technologies to deliver innovative products. My goal is to continually push the boundaries of web development and mentor aspiring engineers.
 
