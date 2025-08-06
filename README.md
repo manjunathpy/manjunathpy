@@ -1,10 +1,4 @@
 <h2>Hello, I'm Manjunath! 👋</h2>
-<h3>🚀 Technical Lead | Web Application Architect | Full-Stack Developer</h3>
-<p>📍 Based in Bengaluru, India 🇮🇳</p>
-
----
-
-### 🌟 About Me
 
 With over **10 years of experience** in Information Technology, I am a seasoned **Technical Lead** passionate about crafting robust and scalable web applications. My expertise lies in orchestrating end-to-end solutions, leading dynamic teams, and driving projects from concept to delivery.
 
