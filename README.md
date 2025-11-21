@@ -97,11 +97,3 @@ I'm always open to discussing new opportunities, collaborating on exciting proje
 
 🤝 **LinkedIn:** [linkedin.com/in/manjunath-py/](https://www.linkedin.com/in/manjunath-py/) 
 📧 **Email:** [manjunathpy7@gmail.com](mailto:manjunathpy7@gmail.com) 
-
----
-
-### Support
-
-<p>
-  <a href="https://ko-fi.com/manjunathpy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="manjunathpy" /></a>
-</p>
